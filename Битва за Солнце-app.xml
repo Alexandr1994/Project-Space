@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/3.2">
+  <id>ru.BattleForSolar</id>
+  <versionNumber>1.0.0</versionNumber>
+  <versionLabel>0.5.1</versionLabel>
+  <filename>Битва за Солнце</filename>
+  <description/>
+<!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+  <name>Битва за Солнце</name>
+<!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+  <copyright/>
+  <initialWindow>
+    <content>Битва%20за%20Солнце.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>landscape</aspectRatio>
+    <renderMode>cpu</renderMode>
+    <autoOrients>false</autoOrients>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+  </initialWindow>
+  <icon/>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <supportedLanguages>ru</supportedLanguages>
+  <supportedProfiles>desktop extendedDesktop </supportedProfiles>
+</application>
